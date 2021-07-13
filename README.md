@@ -53,7 +53,7 @@ sudo apt-get install ros-kinetic-gazebo-ros-control joint-state-publisher
 sudo apt-get install ros-kinetic-ros-controllers ros-kinetic-ros-control
 
 
-** Here I opened another window for the terminal and wrote the last steps :**
+**Here I opened another window for the terminal and wrote the last steps :**
 
 I wrote this:
     Source /home/fareeda/catkin_ws/devel/setup.bash
